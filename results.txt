@@ -1,0 +1,20 @@
+{"status":"success","country":"Portugal","countryCode":"PT","region":"11","regionName":"Lisbon","city":"Oeiras","zip":"2780-169","lat":38.6839,"lon":-9.3102,"timezone":"Europe/Lisbon","isp":"NOS Comunicacoes S.A.","org":"TVCABO-Portugal","as":"AS2860 NOS COMUNICACOES, S.A.","query":"95.93.188.87"}
+
+{"status":"success","country":"United States","countryCode":"US","region":"FL","regionName":"Florida","city":"Panama City","zip":"32401","lat":30.1605,"lon":-85.6453,"timezone":"America/Chicago","isp":"Comcast Cable Communications, LLC","org":"Comcast Cable Communications, Inc.","as":"AS7922 Comcast Cable Communications, LLC","query":"69.254.173.248"}
+
+{"status":"success","country":"United States","countryCode":"US","region":"IN","regionName":"Indiana","city":"Indianapolis","zip":"46235","lat":39.847,"lon":-85.9719,"timezone":"America/Indiana/Indianapolis","isp":"Zayo Bandwidth","org":"Indianapolis Public Schools","as":"AS6461 Zayo Bandwidth","query":"167.217.105.249"}
+
+{"status":"success","country":"France","countryCode":"FR","region":"BRE","regionName":"Brittany","city":"Roscanvel","zip":"29570","lat":48.3164,"lon":-4.5435,"timezone":"Europe/Paris","isp":"Orange S.A","org":"France Telecom","as":"AS3215 Orange S.A.","query":"86.198.117.5"}
+
+{"status":"success","country":"Netherlands","countryCode":"NL","region":"NH","regionName":"North Holland","city":"Amsterdam","zip":"1012","lat":52.3676,"lon":4.90414,"timezone":"Europe/Amsterdam","isp":"T-mobile Netherlands","org":"","as":"AS50266 tmobile thuis","query":"188.91.189.200"}
+
+{"status":"success","country":"Ukraine","countryCode":"UA","region":"30","regionName":"Kyiv City","city":"Kyiv","zip":"04211","lat":50.458,"lon":30.5303,"timezone":"Europe/Kyiv","isp":"Private \"Stock company \"Sater\"","org":"SYNAPSE","as":"AS29107 Private \"Stock company \"Sater\"","query":"178.54.92.119"}
+
+{"status":"success","country":"Algeria","countryCode":"DZ","region":"16","regionName":"Algiers","city":"Belcourt","zip":"16015","lat":36.7538,"lon":3.05876,"timezone":"Africa/Algiers","isp":"Algerie Telecom","org":"","as":"AS36947 Telecom Algeria","query":"41.106.113.136"}
+
+{"status":"success","country":"Brazil","countryCode":"BR","region":"PB","regionName":"Paraíba","city":"João Pessoa","zip":"58000-000","lat":-7.11741,"lon":-34.857,"timezone":"America/Fortaleza","isp":"TELY Ltda.","org":"TELY Ltda","as":"AS53087 TELY Ltda.","query":"177.75.79.176"}
+
+{"status":"success","country":"Denmark","countryCode":"DK","region":"84","regionName":"Capital Region","city":"Skovlunde","zip":"2740","lat":55.7165,"lon":12.4048,"timezone":"Europe/Copenhagen","isp":"TDC Holding A/S","org":"TDC A/S","as":"AS3292 TDC Holding A/S","query":"188.179.248.34"}
+
+{"status":"fail","message":"reserved range","query":"246.152.108.176"}
+
